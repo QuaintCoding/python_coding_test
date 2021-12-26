@@ -1,3 +1,4 @@
+# no
 def solution(board, moves):
     basket = []  # 인형들을 담아줄 바구니~
     answer = 0  # 팡 터진 인형들 계산
